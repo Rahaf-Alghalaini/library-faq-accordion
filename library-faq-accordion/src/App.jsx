@@ -49,7 +49,7 @@ export default function App() {
       </nav>
 
       <main className="page">
-        <h1>Accordion</h1>
+        <h1>FAQ-Accordion</h1>
         <p className="subtitle">One or more questions, with animation, icons and different styles.</p>
 
         <div className="layout">
